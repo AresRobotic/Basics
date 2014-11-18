@@ -122,7 +122,7 @@ http://www.ti.com/lit/gpn/ptn78060w</description>
 &lt;br&gt;
 http://www.ti.com/lit/gpn/ptn78060w</description>
 <gates>
-<gate name="G$1" symbol="ALIM_TI_PTN" x="0" y="0"/>
+<gate name="G$1" symbol="PTN78060W" x="0" y="0"/>
 </gates>
 <devices>
 <device name="" package="PTN78060W">
