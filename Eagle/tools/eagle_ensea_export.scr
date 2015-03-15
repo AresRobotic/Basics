@@ -6,6 +6,8 @@ PRINT FILE %N.top.pdf MIRROR BLACK SOLID;
 DISPLAY None
 DISPLAY Bottom Pads Vias Dimension Unrouted
 PRINT FILE %N.bottom.pdf BLACK SOLID;
-DISPLAY Dimension Unrouted
+DISPLAY None
+DISPLAY Unrouted
 PRINT FILE %N.unrouted.pdf;
-DISPLAY Top Bottom Pads Vias Dimension tPlace bPlace tOrigins bOrigins tDocu bDocu tRestrict Drills Holes Unrouted 200bmp
+DISPLAY None
+DISPLAY Top Bottom Pads Vias Dimension tPlace bPlace tOrigins bOrigins tDocu bDocu tRestrict Drills Holes Unrouted Measures 200bmp
